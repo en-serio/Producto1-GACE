@@ -35,9 +35,9 @@ public abstract class Socio {
     }
 
     public double calcularCuota(){
-        return 0;
+
     }
     public double costeExcursion(Excursion excursion){
-        return 0;
+
     }
 }
