@@ -2,7 +2,8 @@ package Modelo;
 public class SocioInfantil extends Socio {
     private String noTutor;
 
-    public SocioInfantil() {}
+    public SocioInfantil() {
+    }
 
     public SocioInfantil(String noSocio, String nombre, TipoSocio tipoSocio, String noTutor) {
         super(noSocio, nombre, tipoSocio);
@@ -28,3 +29,4 @@ public class SocioInfantil extends Socio {
         // Implementar lógica de cálculo del coste de excursión
         return 0.0;
     }
+}
