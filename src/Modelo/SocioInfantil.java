@@ -1,5 +1,4 @@
 package Modelo;
-
 public class SocioInfantil extends Socio {
     private String noTutor;
 
