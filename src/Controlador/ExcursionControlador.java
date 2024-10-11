@@ -1,5 +1,6 @@
 package Controlador;
 
+import Vista.VistaExcursion;
 public class ExcursionControlador {
     private ListaExcursion listaExcursion;
     private VistaExcursion vistaExcursion;

@@ -1,5 +1,6 @@
 package Controlador;
 
+import Vista.VistaSocios;
 public class SocioContralador {
     private ListaSocio listaSocio;
     private VistaSocio vistaSocio;
