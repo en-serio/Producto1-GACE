@@ -35,7 +35,7 @@ public class Seguro {
         this.precio = precio;
     }
     //ToString
-    public void mostrarInformacion() {
+    public void ToString() {
         System.out.println("ID Seguro: " + idSeguro);
         System.out.println("Tipo de Seguro: " + (tipo ? "Seguro Completo" : "Seguro Básico"));
         System.out.println("Precio del Seguro: " + precio);
