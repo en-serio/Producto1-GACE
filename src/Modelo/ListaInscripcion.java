@@ -13,6 +13,6 @@ public class ListaInscripcion {
         System.out.println("Inscripción añadida.");
     }
     public Inscripcion getInscripcion(String _idInscripcion) {
-
+        return null;
     }
 }

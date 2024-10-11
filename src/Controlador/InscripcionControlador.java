@@ -1,5 +1,6 @@
 package Controlador;
-
+import Modelo.ListaInscripcion;
+import Vista.VistaInscripcion;
 public class InscripcionControlador {
     private ListaInscripcion listaInscripcion;
     private VistaInscripcion vistaInscripcion;
