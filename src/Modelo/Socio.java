@@ -34,6 +34,10 @@ public abstract class Socio {
         this.tipoSocio = tipoSocio;
     }
 
-    public double calcularCuota(){}
-    public double costeExcursion(Excursion excursion){}
+    public double calcularCuota(){
+        return 0;
+    }
+    public double costeExcursion(Excursion excursion){
+        return 0;
+    }
 }
