@@ -1,5 +1,4 @@
 package Modelo;
-<<<<<<< HEAD
 public class SocioInfantil extends Socio {
     private String noTutor;
 
@@ -29,9 +28,3 @@ public class SocioInfantil extends Socio {
         // Implementar lógica de cálculo del coste de excursión
         return 0.0;
     }
-=======
-
-public class SocioInfantil {
-
->>>>>>> 0f750d6c94a5a19b3887412f0fb69144f1a40759
-}
